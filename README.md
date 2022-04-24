@@ -5,3 +5,5 @@
 ### 主要任务
 完成了对于特定数据集一些经典模型的实现。例如LR、DT、KNN、XGBoost等。实验证明我们构建的stacking模型具有最好的效果。
 
+### 实验结果
+![image](https://github.com/Fanzweig/MarketStacking/blob/main/bank%20analysis/bank%20result/bank%E6%95%B0%E6%8D%AE%E9%9B%86%E5%90%84%E6%A8%A1%E5%9E%8Broc%E5%AF%B9%E6%AF%94.png)
